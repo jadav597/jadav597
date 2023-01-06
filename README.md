@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadav597
-- 👀 I’m interested in ...data analysis
-- 🌱 I’m currently learning ...dsa
+- 👀 I’m interested in ...Full Stack development
+- 🌱 I’m currently learning ...front end development
 
 
 <!---
